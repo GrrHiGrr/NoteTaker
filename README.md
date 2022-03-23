@@ -14,7 +14,7 @@
 
 ## Usage
 
-[Heroku Deployed Application](https://.herokuapp.com/)
+[Heroku Deployed Application](https://grrhigrr-notetaker.herokuapp.com/)
 
 ![Note Taker Gif](./public/assets/gif1.gif)
 
